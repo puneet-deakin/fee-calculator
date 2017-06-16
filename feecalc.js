@@ -172,7 +172,7 @@
     });
 
     //todo automate
-    const API_URL = "<?php echo $this->base_url;?>";
+    const API_URL = "https://apps-uat-php56.deakin.edu.au/fee-calculator/";
 
     const STUDENT_TYPE_DOMESTIC = 'D';
     const STUDENT_TYPE_INTERNATIONAL = 'I';
